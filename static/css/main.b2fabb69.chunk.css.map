@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/form.css"],"names":[],"mappings":"AAAA,gBACI,oBACJ","file":"main.b2fabb69.chunk.css","sourcesContent":[".ui.input input {\r\n    width: auto !important;\r\n}"]}
